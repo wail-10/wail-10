@@ -54,8 +54,8 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wail-10&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wail-10&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wail-10&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wail-10&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=wail-10&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=wail-10&theme=dark)
