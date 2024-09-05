@@ -49,4 +49,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=fff&style=for-the-badge)
+![Hadoop](https://img.shields.io/badge/-Hadoop-f69824?logo=apache-hadoop&logoColor=fff&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge)
