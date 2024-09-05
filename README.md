@@ -60,5 +60,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wail-10&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=wail-10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://profile-counter.glitch.me/wail-10/count.svg)
