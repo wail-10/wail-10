@@ -61,4 +61,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wail-10&theme=tokyonight)
 
 
-![Profile Views](https://profile-counter.glitch.me/wail-10/count.svg)
+[![](https://visitcount.itsvg.in/api?id=wail-10&icon=0&color=0)](https://visitcount.itsvg.in)
