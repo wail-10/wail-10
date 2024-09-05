@@ -15,13 +15,13 @@
     </div>
 </div>
 
-### 👋 About Me
+## 👋 About Me
 
 🎓 I'm currently pursuing a degree in **Big Data and Cloud Computing Engineering**. My passion for **IT** drives my curiosity in fields like **Data Engineering**, **Data Science** and **Software Engineering**.
 
 🤝 I'm open to collaborating on exciting projects to expand my horizons and gain more experience in the field.
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=for-the-badge)
@@ -51,3 +51,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-f69824?logo=apache-hadoop&logoColor=fff&style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wail-10&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wail-10&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=wail-10&theme=radical)
