@@ -15,13 +15,13 @@
     </div>
 </div>
 
-## 👋 About Me
+## 👽 About Me
 
 🎓 I'm currently pursuing a degree in **Big Data and Cloud Computing Engineering**. My passion for **IT** drives my curiosity in fields like **Data Engineering**, **Data Science** and **Software Engineering**.
 
 🤝 I'm open to collaborating on exciting projects to expand my horizons and gain more experience in the field.
 
-## 🛠️ Languages & Tools
+## 💻 Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=for-the-badge)
@@ -59,3 +59,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wail-10&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wail-10&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=wail-10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
